@@ -7,4 +7,8 @@
 ## 测试截图
 ![crop](https://user-images.githubusercontent.com/21139011/160066590-bc13910d-1aa8-4583-9d43-afd6e7265a21.gif)
 
-## 测试地址
+## 本地测试
+```
+yarn install 
+yarn dev
+```
